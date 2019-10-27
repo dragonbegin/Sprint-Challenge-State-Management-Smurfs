@@ -17,3 +17,7 @@ redux-thunk: is a function able to return another function of asynchronous opera
 1. What is your favorite state management system you've learned and this sprint? Please explain why!
 
 Redux, allow for larger amount of data management easier. 
+<<<<<<< HEAD
+=======
+
+>>>>>>> ffbf1274d1bff848402d68374d1a625007d46f40
